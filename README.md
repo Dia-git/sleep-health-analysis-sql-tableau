@@ -20,7 +20,7 @@
 
 "Sleep Data Analysis: From Raw Data to Insights​: A Data-Driven Investigation into Sleep Health​"
 
-[Summary Tableau Dashboard Snapshot Here](tableau.com)
+[Summary Tableau Dashboard Snapshot Here](https://public.tableau.com/views/Sleep_health_and_lifestyle_dataset_workbook/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 As I have an educational background in biology and bioinformatics and my professional goal is to transition to a health data analyst role, I picked for the project a set of health data that at this time ignited my curiosity, related to the quality of our sleep.  
 
