@@ -1,8 +1,7 @@
 # Brainstation Data Analytics Certification Portfolio 
 
-### This repository highlights my work from the BrainStation Data Analyst Certification (DAC™), an intensive 8-week program (Sep-Nov 2024) focused on the complete data analytics workflow: from problem formulation and data cleaning to visualization and insight presentation.
-
-> Throughout the course, I gained hands-on experience working with real-world datasets across multiple domains, developing both technical and analytical skills required to extract meaningful insights and communicate them effectively to diverse audiences. 🔗[https://brainstation.io/course/london/data-analytics](https://brainstation.io/course/london/data-analytics)
+> This repository highlights my work from the BrainStation Data Analyst Certification (DAC™), an intensive 8-week program (Sep-Nov 2024) focused on the complete data analytics workflow: from problem formulation and data cleaning to visualization and insight presentation.
+> Throughout the course, I gained hands-on experience working with real-world datasets across multiple domains, developing both technical and analytical skills required to extract meaningful insights and communicate them effectively to diverse audiences. 🔗 [https://brainstation.io/course/london/data-analytics](https://brainstation.io/course/london/data-analytics)
 
 
 #### Skills & Tools Developed
